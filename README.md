@@ -1,0 +1,1 @@
+This project implements a quiz website where users can create, share, and take quizzes, send messages, and earn achievements. This project was completed in collaboration with 3 other students for Stanford's CS 108 class.
